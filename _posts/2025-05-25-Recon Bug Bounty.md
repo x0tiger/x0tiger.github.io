@@ -303,4 +303,4 @@ Active reconnaissance involves direct interaction with the target, making it mor
 
 ## 4. Conclusion
 
-Passive and active reconnaissance tools provide a robust framework for gathering information and identifying vulnerabilities. By combining these tools and analyzing their outputs carefully, testers can build a comprehensive picture of the target, increasing the chances of discovering security flaws. Subsequent chapters will discuss how to use this information to design ethical attacks and write effective bug bounty reports.
+Passive and active reconnaissance tools provide a robust framework for gathering information and identifying vulnerabilities. By combining these tools and analyzing their outputs carefully, testers can build a comprehensive picture of the target, increasing the chances of discovering security flaws. Subsequent Blog will discuss how to use this information to design ethical attacks and write effective bug bounty reports.
