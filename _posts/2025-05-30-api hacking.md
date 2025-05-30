@@ -2,7 +2,7 @@
 published: true
 title: API Hacking Part 1
 date: 2025-05-30 02:40:00 +0200
-categories: API Hacking
+categories: API-Hacking
 tags:
   - API
   - Hacking
