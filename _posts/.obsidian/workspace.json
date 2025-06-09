@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "34569a597e283284",
+        "id": "6b77c4dab02e85b7",
         "type": "tabs",
         "children": [
           {
-            "id": "47e135a932bb7a16",
+            "id": "21951c9cc08ed769",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -168,13 +168,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "47e135a932bb7a16",
+  "active": "0b7b6eec3472cdc9",
   "lastOpenFiles": [
-    "2025-06-10-API-HACKING.md",
+    "2025-05-25-Recon Bug Bounty.md",
     "2025-04-21-MCP.md",
+    "2025-06-10-API-HACKING.md",
     "2025-05-30-api hacking.md",
     "2025-05-25-Recon Bug Bounty.md.md",
-    "2025-05-25-Recon Bug Bounty.md",
     "New Text Document.txt"
   ]
 }
