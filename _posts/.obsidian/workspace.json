@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2025-06-10-API-HACKING.md",
+                "file": "2025-06-20-API-hacking.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-06-10-API-HACKING"
+              "title": "2025-06-20-API-hacking"
             }
           }
         ]
@@ -168,11 +168,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0b7b6eec3472cdc9",
+  "active": "21951c9cc08ed769",
   "lastOpenFiles": [
+    "2025-06-10-API-HACKING.md",
+    "2025-06-20-API-hacking.md",
     "2025-05-25-Recon Bug Bounty.md",
     "2025-04-21-MCP.md",
-    "2025-06-10-API-HACKING.md",
     "2025-05-30-api hacking.md",
     "2025-05-25-Recon Bug Bounty.md.md",
     "New Text Document.txt"
