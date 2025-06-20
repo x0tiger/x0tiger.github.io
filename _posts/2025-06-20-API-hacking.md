@@ -7,7 +7,7 @@ tags:
   - API
   - Hacking
 ---
-### Part 3: OWASP API Top 10 - 2019 (Detailed Explanation with Highly Realistic Scenarios)
+### Part 3: OWASP API Top 10 - 2019 
 
 APIs are the backbone of modern applications. Any vulnerability in them can lead to a full system compromise. In 2019, OWASP released its list of the top 10 most critical API security issues. Here’s an in-depth explanation of each, including very realistic attack scenarios and mitigation strategies.
 
