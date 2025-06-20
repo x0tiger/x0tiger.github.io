@@ -275,4 +275,4 @@ APIs are the backbone of modern applications. Any vulnerability in them can lead
 
 ### Conclusion:
 
-Each item in the OWASP API Top 10 reflects a real-world weakness frequently exploited by attackers. A deep understanding of these issues—paired with strong testing and secure coding practices—is essential to protect APIs from abuse. Modern applications must treat security as a foundational element, not an afterthought.
+Each item in the OWASP API Top 10 reflects a real-world weakness frequently exploited by attackers. A deep understanding of these issues—paired with strong testing and secure coding practices—is essential to protect APIs from abuse. Modern applications must treat security as a foundational element, not an afterthought..
