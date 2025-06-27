@@ -9,7 +9,7 @@ tags:
 ---
 # OWASP API Top 10 - Combined (2019 & 2023)
 
-APIs are the backbone of modern applications. Any vulnerability in them can lead to a full system compromise. This combined guide merges the OWASP API Top 10 lists from 2019 and 2023, integrating both lists into a unified, practical reference. Each issue includes descriptions, root causes, real-world attack scenarios, exploitation examples, and mitigation strategies.
+APIs are the backbone of modern applications. Any vulnerability in them can lead to a full system compromise. This combined guide merges the OWASP API Top 10 lists from 2019 and 2023, integrating both lists into a unified, practical reference. Each issue includes descriptions , root causes, real-world attack scenarios, exploitation examples, and mitigation strategies.
 
 ---
 
