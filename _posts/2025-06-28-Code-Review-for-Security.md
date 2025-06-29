@@ -2,7 +2,7 @@
 published: true
 title: Secure Code Review
 date: 2025-06-28 10:30:00 +0200
-categories: Code Review
+categories: Code-Review
 tags:
   - Source
   - Review
