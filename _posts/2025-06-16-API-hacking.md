@@ -1,7 +1,7 @@
 ---
 published: true
-title: API Hacking Part 3
-date: 2025-06-22 10:30:00 +0200
+title: OWASP API Top 10
+date: 2025-06-16 10:30:00 +0200
 categories: API-Hacking
 tags:
   - API
