@@ -74,7 +74,7 @@ Your code review should prioritize "trust boundaries"—the points where **exter
 ### Example: API Endpoint Vulnerability
 
 ```js
-// ⚠️ Vulnerable: Missing authorization check
+//  Vulnerable: Missing authorization check
 app.get('/api/users/:id', async (req, res) => {
   const user = await db.getUserById(req.params.id);
   res.json(user);
