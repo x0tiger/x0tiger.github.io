@@ -169,7 +169,7 @@ const token = jwt.sign(
 );
 ```
 
-> 🧠 Always validate the JWT server-side even if the client sends it. Don’t assume `role` from the token without re-checking permissions.
+>  Always validate the JWT server-side even if the client sends it. Don’t assume `role` from the token without re-checking permissions.
 
 ---
 
@@ -192,7 +192,7 @@ const user = await db.query(
 );
 ```
 
-> ✍️ Always sanitize and validate user input. Libraries like Joi (JS), Cerberus (Python), or Zod (TS) help enforce schema validation.
+>  Always sanitize and validate user input. Libraries like Joi (JS), Cerberus (Python), or Zod (TS) help enforce schema validation.
 
 ---
 
@@ -256,7 +256,7 @@ Security-relevant tests:
 
 ## 12. Automation + Manual = Balance
 
-### 🔧 Recommended Tooling
+###  Recommended Tooling
 
 |Tool|Purpose|
 |---|---|
